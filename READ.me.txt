@@ -1,0 +1,4 @@
+READ.me
+I hate git hub at the moment so all of my comments will be here. 
+
+I did find a cool clock to put in the top but could not get the code to run 
